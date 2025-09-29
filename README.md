@@ -52,15 +52,6 @@ The Data Analysis & Visualization module was enhanced by adding a filter based o
 | **DynamoDB**             | NoSQL database for user data storage and retrieval.                     |
 | **Looker Studio**        | Business intelligence and data visualization for generating reports and dashboards. |
 
-## Repository Links
-
-- **GitLab Repository**: [https://github.com/pateljay15/DalVacationHome](https://github.com/pateljay15/DalVacationHome)
-- **Deployed Application**: [https://dalvacationhome-sdp36-834568195327.us-east1.run.app](https://dalvacationhome-sdp36-834568195327.us-east1.run.app)
-
-## Pseudocode/Algorithms
-
-### User Management & Authentication Module
-
 **Second-Factor-Auth Lambda Function**:
 1. Extract user email and security questions.
 2. Fetch and validate user data from DynamoDB.
